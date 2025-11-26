@@ -1,4 +1,4 @@
-# TP2 Frontend
+# TP3 Frontend
 Pour lancer le projet, suivez les étapes ci-dessous :
 1. **Cloner le dépôt**  
    Ouvrez votre terminal et exécutez la commande suivante pour cloner le dépôt :  
