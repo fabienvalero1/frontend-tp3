@@ -12,16 +12,10 @@ Pour lancer le projet, suivez les étapes ci-dessous :
    cd nom_du_projet
    ```
    Remplacez `nom_du_projet` par le nom réel du dossier créé lors du clonage.
-3. **Installer les dépendances**  
-   Installez les dépendances nécessaires en utilisant npm ou yarn :  
-   Avec npm :  
-   ```bash
-   npm install
-    ```
 4. **Lancer le serveur de développement**  
    Démarrez le serveur de développement avec la commande suivante :  
    Avec npm :  
    ```bash
-   npm start
+   docker-compose up
    ```
-5. **Accéder à l'application**
+4. **Accéder à l'application**
